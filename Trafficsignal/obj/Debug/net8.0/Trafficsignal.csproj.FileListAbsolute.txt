@@ -1,0 +1,14 @@
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\bin\Debug\net8.0\Trafficsignal.exe
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\bin\Debug\net8.0\Trafficsignal.deps.json
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\bin\Debug\net8.0\Trafficsignal.runtimeconfig.json
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\bin\Debug\net8.0\Trafficsignal.dll
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\bin\Debug\net8.0\Trafficsignal.pdb
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\obj\Debug\net8.0\Trafficsignal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\obj\Debug\net8.0\Trafficsignal.AssemblyInfoInputs.cache
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\obj\Debug\net8.0\Trafficsignal.AssemblyInfo.cs
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\obj\Debug\net8.0\Trafficsignal.csproj.CoreCompileInputs.cache
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\obj\Debug\net8.0\Trafficsignal.dll
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\obj\Debug\net8.0\refint\Trafficsignal.dll
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\obj\Debug\net8.0\Trafficsignal.pdb
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\obj\Debug\net8.0\Trafficsignal.genruntimeconfig.cache
+c:\Users\H\Desktop\C#\Trafficsignal\Trafficsignal\obj\Debug\net8.0\ref\Trafficsignal.dll
